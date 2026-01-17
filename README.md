@@ -98,7 +98,7 @@ The dataset contains: https://drive.google.com/file/d/1kJC7SGFveSn1UcJ5BYqw0VWc0
 ---
 
 ## Dashboard Preview
-*(Insert screenshot here)*
+https://lookerstudio.google.com/s/t8F0qnw1_BI
 
 ---
 
@@ -112,11 +112,11 @@ The dataset contains: https://drive.google.com/file/d/1kJC7SGFveSn1UcJ5BYqw0VWc0
 ---
 
 ## Author
-**Gloria Ayorkor Odamtten**  
+*Gloria Ayorkor Odamtten* 
 Marketing Analytics | Data Analyst  
 
 ---
 
 ## Contact
-LinkedIn: (your link)  
+LinkedIn: (www.linkedin.com/in/gloriaa-odamtten)  
 Email: (gloodamtten@gmail.com)
